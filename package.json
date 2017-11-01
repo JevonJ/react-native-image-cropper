@@ -30,8 +30,9 @@
   "homepage": "https://github.com/stoffern/react-native-image-cropper#readme",
   "dependencies": {
     "gl-react": "^2.2.8",
-    "gl-react-image": "0.0.2",
-    "gl-react-native": "^2.38.0"
+    "gl-react-image": "git+https://github.com/JevonJ/gl-react-image.git#FixPropTypes",
+    "gl-react-native": "^2.38.0",
+    "prop-types": "^15.6.0"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^1.2.0",
